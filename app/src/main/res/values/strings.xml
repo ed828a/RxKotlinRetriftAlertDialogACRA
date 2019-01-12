@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RxKotlinApp</string>
+    <string name="download_to_sdcard_error_title">External storage unavailable</string>
+    <string name="download_to_sdcard_error_message">Download to external SD card is not possible yet. Reset ...</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancle</string>
+    <string name="crash_toast_text">Haha..., you crashed!</string>
+</resources>
